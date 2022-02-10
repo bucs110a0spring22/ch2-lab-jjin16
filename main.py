@@ -1,4 +1,4 @@
-
+import random
 #Part A
 weeks = 16
 classes = 5
@@ -14,7 +14,6 @@ every_variable= [weeks, classes, tuition, cost_per_week, classes_per_week, cost_
 for variable in every_variable:
   print_value_and_type(variable)
 #Part B
-import random
 list_of_random=["apple", "class", "watch", "4th object", "5th object"]
 choice_of_random= random.choice(list_of_random)
 print("""The random choice from the list "list_of_random" is: """, choice_of_random)
