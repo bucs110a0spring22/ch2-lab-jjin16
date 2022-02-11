@@ -8,7 +8,8 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ For part A, my program calculates the cost of classes and prints the value and the types of date of my created variables.
+ For part B, my program picks a random item from the list of 5 objects using random module and prints the item of choice. 
 
 ## GRACE DAYS
 Grace days used for this assignment: 0 
@@ -16,11 +17,11 @@ Grace days used for this assignment: 0
 Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+  none
 
 ## REFERENCES:
  1. https://www.w3schools.com/python/python_for_loops.asp
  2. https://www.w3schools.com/python/python_functions.asp
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ none
