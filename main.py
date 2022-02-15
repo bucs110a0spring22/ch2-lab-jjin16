@@ -10,8 +10,8 @@ cost_per_class = cost_per_week/ classes_per_week
 print("The cost per class: ", cost_per_class)
 def print_value_and_type(variable):
   print(variable, type(variable))
-every_variable_list_i_created= [classes_per_week, cost_per_class]
-for variable in every_variable_list_i_created:
+every_variable_i_created_list= [weeks, classes, tuition, cost_per_week, classes_per_week, cost_per_class]
+for variable in every_variable_i_created_list:
   print_value_and_type(variable)
 #Part B
 list_of_random=["apple", "class", "watch", "4th object", "5th object"]
